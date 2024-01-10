@@ -1,5 +1,6 @@
 #include <SoftwareSerial.h>
-#include <ModbusMaster.h> //https://4-20ma.io/ModbusMaster/class_modbus_master.html
+#include <ModbusMaster.h> 
+//https://4-20ma.io/ModbusMaster/class_modbus_master.html link ของ library
 
 
 #define  ID 3  // Modbus slave ID= 3
